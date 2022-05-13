@@ -1,0 +1,8 @@
+node_modules
+config.json
+index.js
+/commands
+/events
+/admin
+/messageEmbed
+index/client.comamnde

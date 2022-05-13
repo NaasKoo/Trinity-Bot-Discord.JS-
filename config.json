@@ -1,0 +1,13 @@
+{
+	"clientId": "973755789246337064",
+	"guildId": "960995618799640716",
+	"token": "OTczNzU1Nzg5MjQ2MzM3MDY0.GsxRJm.gsGrCbw2PK0hnZxWRGGF_fkgp9YCREZLz4SoRo",
+	"clientSecret": "lgreg3rVhS336H_3347tZtIG0bpUFvSp",
+	"port": "53134",
+	"access_token": "an access token",
+	"token_type": "Bearer",
+	"expires_in": 604800,
+	"refresh_token": "a refresh token",
+	"scope": "identify"
+	}
+
